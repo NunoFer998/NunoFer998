@@ -41,7 +41,7 @@
 | [SETR](https://github.com/NunoFer998/SETR) | Trabalho de Sistemas Embarcados e de Tempo Real | C |
 | [Asma2](https://github.com/NunoFer998/Asma2) | Projeto de Agentes e Sistemas Multi-Agente | Python |
 | [LCOM](https://github.com/NunoFer998/LCOM) | Projeto de Laboratório de Computadores: drivers de dispositivos em C para Minix | C |
-| [PRI2025](https://github.com/NunoFer998/PRI2025) | Projeto de Processamento e Recuperação de Informação, desenvolvido em três milestones | Python |
+| [SR.wifi-deauth](https://github.com/up202207553/SR.wifi-deauth) | Projeto de Segurança de Redes | Python |
 
 ---
 
